@@ -5,7 +5,7 @@
 5. abrir programa postman o cualquier programa para probar APIs
 6. con el metodo POST y este url http://localhost:3000/send-mail se debe enviar el siguente JSON  en el cuerpo de la peticion 
 {
-    "to": ["fenjenkan@gmail.com","serranotellezalejandra3@gmail.com"],
+    "to": ["distinatario1@gmail.com","destinatario2@gmail.com"],
     "subject": "Asunto del correo",
     "body": "Cuerpo del correo"
     
